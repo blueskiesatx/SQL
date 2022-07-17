@@ -18,11 +18,11 @@ FULL JOIN
 # homweork solutions
 I included the homework solutions to basic MySQL practice questions. For example:
 
--- 1a Display the first and last names of all actors from the table actor
-USE sakila;
-SELECT first_name, last_name FROM actor;
+"-- 1a Display the first and last names of all actors from the table actor"
+"USE sakila;"
+"SELECT first_name, last_name FROM actor;"
 
--- 1b Display the first and last name of each actor in a single column 
--- in upper case letters. Name the column Actor Name
-SELECT upper(concat(first_name,' ', last_name)) AS Actor_Name
-FROM actor;
+"-- 1b Display the first and last name of each actor in a single column" 
+"-- in upper case letters. Name the column Actor Name"
+"SELECT upper(concat(first_name,' ', last_name)) AS Actor_Name"
+"FROM actor;"

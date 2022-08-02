@@ -3,7 +3,7 @@ The Sakila sample database, developed by Mike Hillyer, is a great tool to learn 
 
 dev.mysql.com/doc/sakila/en/sakila-installation.html
 
-#Bookmarks for learning more about SQL:
+# Bookmarks for learning more about SQL:
 SQL Tutorial For Beginners 
 https://data-flair.training/blogs/sql-tutorial/
 
